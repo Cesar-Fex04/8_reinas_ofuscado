@@ -1,8 +1,8 @@
 table,td{
     border: 1px solid black;
     border-collapse: collapse;
-    width: 500px;/**esta propiedad solo se aplica a la tabla 500px;*/
-    height: 50px; /*esta propiedad solo se aplica a objetos tipo td 50px*/
+    width: 30.5em;/**esta propiedad solo se aplica a la tabla 500px;*/
+    height: 2em; /*esta propiedad solo se aplica a objetos tipo td 50px*/
    
 } 
    
