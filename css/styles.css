@@ -1,28 +1,6 @@
-table,td{
-    border: 1px solid black;
-    border-collapse: collapse;
-    width: 44.5em ;/**esta propiedad solo se aplica a la tabla 500px;*/
-    height: 4.5em ; /*esta propiedad solo se aplica a objetos tipo td 50px*/
-   
-} 
-   
-   tr:nth-child(even)       
-   td:nth-child(even),
-   tr:nth-child(odd)
-   td:nth-child(odd){
-    background-color: #fece9e;
-   }
-
-   
-   tr:nth-child(odd)
-   td:nth-child(even),
-   tr:nth-child(even)
-   td:nth-child(odd){
-    background-color: #d18b47;
-   }
-   .tablero{
-   
-    height: auto;
-    display: grid;
-   }
-  
+/* OBFUSCATED BY CSSOBFUSCATOR.COM at 2025/05/09 01:30:51 */
+table{border-left-width:.010416667in;}table{border-bottom-width:.010416667in;}table{border-right-width:.010416667in;}table{border-top-width:.010416667in;}table{border-left-style:solid;}table{border-bottom-style:solid;}table{border-right-style:solid;}table{border-top-style:solid;}table{border-left-color:black;}table{border-bottom-color:black;}.tablero{height:auto;}table{border-right-color:black;}table{border-top-color:black;}table{border-image:none;}.tablero{display:grid;}table,td{border-collapse:collapse;}table,td{width:44.5em;}table,td{height:4.5em;}td{border-left-width:.010416667in;}td{border-bottom-width:.010416667in;}td{border-right-width:.010416667in;}td{border-top-width:.010416667in;}td{border-left-style:solid;}td{border-bottom-style:solid;}td{border-right-style:solid;}td{border-top-style:solid;}td{border-left-color:black;}td{border-bottom-color:black;}td{border-right-color:black;}td{border-top-color:black;}td{border-image:none;}tr:nth-child(odd)
+   td:nth-child(odd),tr:nth-child(even)       
+   td:nth-child(even){background-color:#fece9e;}tr:nth-child(even)
+   td:nth-child(odd),tr:nth-child(odd)
+   td:nth-child(even){background-color:#d18b47;}
